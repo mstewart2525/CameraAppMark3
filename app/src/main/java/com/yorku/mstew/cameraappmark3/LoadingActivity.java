@@ -28,14 +28,16 @@ public class LoadingActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.loading_activity);
-
-
     }
 
+    //Note that we are using image assets which are typically lower quality that normal vectors
+    //this may change at a later date
+    
 
 
     //Creative RGB 153,51,102
     //Passiontate RGB 204,51,51
     //Rational RGB RGB 0,51,102
-    //Confident
+    //Confident RGB 51,153
+    //Ingenious Color RGB 255,204,0
 }
