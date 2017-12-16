@@ -32,7 +32,7 @@ public class LoadingActivity extends AppCompatActivity {
 
     //Note that we are using image assets which are typically lower quality that normal vectors
     //this may change at a later date
-    
+
 
 
     //Creative RGB 153,51,102
